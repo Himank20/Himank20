@@ -1,6 +1,8 @@
 # Create a virtual Machine
 ## _The Last Markdown Editor, Ever_
 
+![alt text for screen readers](https://www.dropbox.com/scl/fi/svxiqwwqehi1rp4lbrdhd/2023-09-12-17_33_07.png?rlkey=46akc6436kwxs2kpzmjj6klnz&dl=0)
+
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
